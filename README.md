@@ -49,10 +49,10 @@ Używany do wydawania dźwięków alarmowych w czasie odliczania oraz po wybuchu
 
 ## Zdjęcie projektu
 
-![Opis zdjęcia](link_do_zdjęcia.jpg)
+![Opis zdjęcia](arduino-bomb.jpg)
 
 ## Link do filmu na YouTube
 
 Zobacz film prezentujący projekt na YouTube:  
-[Link do filmu](https://www.youtube.com/watch?v=przykladowylink)
+[Link do filmu](https://www.youtube.com/watch?v=nmv6GBGcEY8)
 
